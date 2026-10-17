@@ -1,0 +1,1 @@
+O endpoint de consulta de status consulta a transação diretamente na AtenasPay. Antes de publicar, confirme no painel do provedor a URL e o formato oficial de webhook. Não libere o acesso com base apenas no redirecionamento do navegador.
